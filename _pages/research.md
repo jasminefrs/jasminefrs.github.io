@@ -15,10 +15,3 @@ title: Research
 ### Work in Progress
 
 - **Does Machine Learning Algorithm Lead to Adverse Selection in Housing Market?** (with Yan Huang, Param Vir Singh, and Kannan Srinivasan)
-
-
-<!-- {% bibliography -f papers%} -->
-<!-- {% for y in page.years %}
-  <h3 class="year">{{y}}</h3>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %} -->
