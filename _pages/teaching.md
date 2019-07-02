@@ -1,10 +1,15 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /Teaching/
+title: Teaching
 ---
+**Teaching Assistantship at CMU:**
+- Machine Learning for Problem Solving (Instructor: Leman Akoglu)
+- Business Intelligence & Data Mining (Instructor: Beibei Li)
+- Unstructured Data Analytics for Policy (Instructor: George Chen)
+- Unstructured Data Analytics (Instructor: George Chen)
+- Economic Analysis (Instructor: Karen Clay)
+- Economic Analysis (Instructor: Alessandro Acquisti)
+- Statistical Theory for Social and Policy Sciences (Instructor: Amelia Haviland) 
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
