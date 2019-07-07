@@ -3,7 +3,7 @@ layout: page
 permalink: /Teaching/
 title: Teaching
 ---
-**Teaching Assistantship at CMU:**
+**Teaching Assistantships at CMU:**
 - Machine Learning for Problem Solving (Instructor: Leman Akoglu)
 - Business Intelligence & Data Mining (Instructor: Beibei Li)
 - Unstructured Data Analytics for Policy (Instructor: George Chen)
