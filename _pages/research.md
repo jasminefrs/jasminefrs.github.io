@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 ---
 ### Working Papers
-- **Crowd, Lending, Machine, and Bias**  (with Yan Huang and Param Vir Singh). Under revision at *Information System Research*. 
+- **Crowd, Lending, Machine, and Bias**  (with Yan Huang and Param Vir Singh). Under revision at *Information Systems Research*. 
 [SSRN link](https://ssrn.com/abstract=3206027)
 
 - **"Un"Fair Machine Learning Algorithms** (with Manmohan Aseri, Param Vir Singh, and Kannan Srinivasan). Under review at *Management Science*.
