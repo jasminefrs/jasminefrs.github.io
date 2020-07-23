@@ -14,4 +14,4 @@ title: Research
 
 #### Work in Progress
 
-1. **Do Machine Learning Algorithms Lead to Adverse Selection in the Housing Market?** (with Yan Huang, Param Vir Singh, and Kannan Srinivasan)
+1. **When Algorithms Promote Inequality: A Structural Analysis of the Impact of Zillow’s Zestimate on Housing Market** (with Yan Huang, Param Vir Singh, and Kannan Srinivasan)
