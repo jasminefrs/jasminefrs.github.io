@@ -5,7 +5,7 @@ title: Research
 ---
 ####  Publication
 
-1. **"Un"Fair Machine Learning Algorithms** (with Manmohan Aseri, Param Vir Singh, and Kannan Srinivasan).*Management Science*, forthcoming.
+1. **"Un"Fair Machine Learning Algorithms** (with Manmohan Aseri, Param Vir Singh, and Kannan Srinivasan). *Management Science*, forthcoming.
 [SSRN link](https://ssrn.com/abstract=3408275)
   
 2. **Crowds, Lending, Machine, and Bias**  (with Yan Huang and Param Vir Singh). *Information Systems Research*, forthcoming. 
