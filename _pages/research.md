@@ -6,7 +6,7 @@ title: Research
 ####  Publication
 
 1. **"Un"Fair Machine Learning Algorithms** (with Manmohan Aseri, Param Vir Singh, and Kannan Srinivasan). *Management Science*, forthcoming.
-[SSRN link](https://ssrn.com/abstract=3408275)
+  [SSRN link](https://ssrn.com/abstract=3408275)
   
 2. **Crowds, Lending, Machine, and Bias**  (with Yan Huang and Param Vir Singh). *Information Systems Research*, forthcoming. 
    [SSRN link](https://ssrn.com/abstract=3206027)
@@ -17,11 +17,9 @@ title: Research
 
 #### Working Papers
 
-1. **When Algorithms Promote Inequality: A Structural Analysis of the Impact of Zillow’s Zestimate on Housing Market** (with Yan Huang, Nitin Mehta,  Param Vir Singh, and Kannan Srinivasan)
+1. **When Algorithms Promote Inequality: A Structural Analysis of the Impact of Zillow’s Zestimate on Housing Market** (with Yan Huang, Nitin Mehta,  Param Vir Singh, and Kannan Srinivasan).
 
+2. **Model Mis-specification and Algorithmic Bias** (with Yangfan Liang and Peter Zhang).
 
+   [arXiv link](https://arxiv.org/abs/2105.15182)
 
-
-#### Work in Progress
-
-1. **Empirical Risk Minimization Leads to Worst-Case Bias** (with Yangfan Liang and Peter Zhang)
