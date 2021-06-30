@@ -14,10 +14,10 @@ title: Research
 1. **"Un"Fair Machine Learning Algorithms** (with Manmohan Aseri, Param Vir Singh, and Kannan Srinivasan). *Management Science*, forthcoming.
   [SSRN link](https://ssrn.com/abstract=3408275)
   
-2. **Crowds, Lending, Machine, and Bias**  (with Yan Huang and Param Vir Singh). *Information Systems Research*, forthcoming. 
+2. **Crowds, Lending, Machine, and Bias**  (with Yan Huang and Param Vir Singh). *Information Systems Research*, 2021. 
    [SSRN link](https://ssrn.com/abstract=3206027)
 
-3. **AI and Algorithmic Bias: Source, Detection, Mitigation and Implications** (with Yan Huang and Param Vir Singh). *INFORMS Tutorials in Operations Research*, forthcoming.
+3. **AI and Algorithmic Bias: Source, Detection, Mitigation and Implications** (with Yan Huang and Param Vir Singh). *INFORMS Tutorials in Operations Research*, 2020.
 
     
 
