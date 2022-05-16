@@ -4,11 +4,6 @@ permalink: /research/
 title: Research
 ---
 
-#### Job Market Paper
-
-**How Does Zestimate Affect Housing Market Outcomes Across Socio-economic Segments?**
-
-
 ####  Publication
 
 1. **"Un"Fair Machine Learning Algorithms** (with Manmohan Aseri, Param Vir Singh, and Kannan Srinivasan). *Management Science*, forthcoming.
@@ -23,5 +18,10 @@ title: Research
 
 #### Working Papers
 
-1. **Model Mis-specification and Algorithmic Bias** (with Yangfan Liang and Peter Zhang).
+1. **How Does Zestimate Affect Housing Market Outcomes Across Socio-economic Segments?** (with Yan Huang, Nitin Mehta, Param Virg Singh, and Kannan Srinivasan).
+
+2. **Model Mis-specification and Algorithmic Bias** (with Yangfan Liang and Peter Zhang).
 [arXiv link](https://arxiv.org/abs/2105.15182)
+
+3. **Human-Algorithm Interactions: Evidence from Zillow.com** (with Meng Liu and Ginger Jin)
+[NBER Working Paper](https://www.nber.org/papers/w29880)
