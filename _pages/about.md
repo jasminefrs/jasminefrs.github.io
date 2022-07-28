@@ -13,7 +13,9 @@ news: false
 social: false
 ---
 
-I am an Assitant Professor of Marketing at [New York University, Stern School of Business](https://www.stern.nyu.edu/){:target="\_blank"}. I study how machine learning (ML) algorithms affect firms and consumers and how they influence market outcomes, with a focus on [algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias){:target="\_blank"}. I use machine learning, analytical modeling and structural econometric modeling methods to study the economic implications of using machine learning in decision making and the (unintended) disparate impacts of ML-driven decisions across demographic groups.
+I am an Assitant Professor of Marketing at [New York University, Stern School of Business](https://www.stern.nyu.edu/){:target="\_blank"}. In my research, I study the economic and business implications of machine learning algorithms, with a focus on the unintended disparate impacts of ML-driven decisions across demographic groups. Using machine learning techniques, analytical modeling, and structural
+modeling methods, I seek to understand and provide insights on how algorithms affect
+decisions and behaviors in different contexts and how they may exacerbate or alleviate the increasing social inequalities.
 
 <a class="page-link" href="https://runshanfu.com/assets/pdf/cv.pdf">Curriculum Vitae</a>
 
