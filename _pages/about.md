@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Runshan</strong> Fu
-description: Ph.D. Candidate, Carnegie Mellon University
+
 
 <!-- profile:
   align: right
