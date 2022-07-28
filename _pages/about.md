@@ -3,7 +3,6 @@ layout: about
 permalink: /
 title: <strong>Runshan</strong> Fu
 
-
 <!-- profile:
   align: right
   image: prof_pic.jpg -->
@@ -18,6 +17,7 @@ modeling methods, I seek to understand and provide insights on how algorithms af
 decisions and behaviors in different contexts and how they may exacerbate or alleviate the increasing social inequalities.
 
 <a class="page-link" href="https://runshanfu.com/assets/pdf/cv.pdf">Curriculum Vitae</a>
+
 
 
 
