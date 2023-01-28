@@ -16,9 +16,9 @@ title: Research
 
 #### Working Papers
 
--. **Human-Algorithm Interactions: Evidence from Zillow.com** (with Meng Liu and Ginger Jin). *Under Revision*
+- **Human-Algorithm Interactions: Evidence from Zillow.com** (with Meng Liu and Ginger Jin). *Under Revision*
 
--. **Unequal Impact of Zestimate on the Housing Market** (with Yan Huang, Nitin Mehta, Param Virg Singh, and Kannan Srinivasan). *Under Review*
+- **Unequal Impact of Zestimate on the Housing Market** (with Yan Huang, Nitin Mehta, Param Virg Singh, and Kannan Srinivasan). *Under Review*
 
 - **(De)biased Machine Learning Algorithm in Matching** (with Yunchuan Liu).
 
@@ -26,8 +26,10 @@ title: Research
 
 - **Algorithm Failures and Consumers Response: Evidence from Zillow.com** (with Nikhil Malik, Isamar Troncoso, and Davide Proserpio)
 
--. **Model Mis-specification and Algorithmic Bias** (with Yangfan Liang and Peter Zhang).
+- **Model Mis-specification and Algorithmic Bias** (with Yangfan Liang and Peter Zhang).
 
 
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3045671)
+
+
 [Google Scholar](https://scholar.google.com/citations?user=MOzBetAAAAAJ)
