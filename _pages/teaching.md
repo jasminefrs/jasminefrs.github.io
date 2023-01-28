@@ -3,7 +3,10 @@ layout: page
 permalink: /Teaching/
 title: Teaching
 ---
-**Teaching Assistantships at CMU:**
+**Instructor at NYU**
+- Introduction to Marketing (Undergraduate core)
+
+**Teaching Assistant at CMU:**
 - Decision Analytics for Business and Policy (Instructor: Peter Zhang)
 - Digital Transformation (Instructor: Michael Smith)
 - Machine Learning for Problem Solving (Instructor: Leman Akoglu)
