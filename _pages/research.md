@@ -28,6 +28,7 @@ title: Research
 
 - **Model Mis-specification and Algorithmic Bias** (with Yangfan Liang and Peter Zhang).
 
+&nbsp;
 
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3045671)
 
