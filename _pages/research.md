@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 ---
 
-####  Publication
+##  Publication
 
 - **"Un"Fair Machine Learning Algorithms** (with Manmohan Aseri, Param Vir Singh, and Kannan Srinivasan). *Management Science*, 2022.
   
@@ -14,11 +14,11 @@ title: Research
 
     
 
-#### Working Papers
+## Working Papers
 
-- **Human-Algorithm Interactions: Evidence from Zillow.com** (with Meng Liu and Ginger Jin). *Under Revision*
+- **Does Human-algorithm Feedback Loop Lead To Error Propagation? Evidence from Zillow’s Zestimate** (with Meng Liu and Ginger Jin). *Under 2nd Round Review*
 
-- **Unequal Impact of Zestimate on the Housing Market** (with Yan Huang, Nitin Mehta, Param Virg Singh, and Kannan Srinivasan). *Under Review*
+- **Unequal Impact of Zestimate on the Housing Market** (with Yan Huang, Nitin Mehta, Param Virg Singh, and Kannan Srinivasan). *Under Revision*
 
 - **(De)biased Machine Learning Algorithm in Matching** (with Yunchuan Liu).
 
