@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 ---
 
-#### Publication
+#### **Publication**
 
 - **"Un"Fair Machine Learning Algorithms** (with Manmohan Aseri, Param Vir Singh, and Kannan Srinivasan). *Management Science*, 2022.
   
@@ -12,9 +12,9 @@ title: Research
 
 - **AI and Algorithmic Bias: Source, Detection, Mitigation and Implications** (with Yan Huang and Param Vir Singh). *INFORMS Tutorials in Operations Research*, 2020.
 
-    
+&nbsp;
 
-#### Working Papers
+#### **Working Papers**
 
 - **Does Human-algorithm Feedback Loop Lead To Error Propagation? Evidence from Zillow’s Zestimate** (with Meng Liu and Ginger Jin). *Under 2nd Round Review*
 
