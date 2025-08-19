@@ -22,13 +22,7 @@ title: Research
 
 - **Generative AI and Content-Creator Economy: Evidence from Online Content Creation Platforms** (with Hongxian Huang and Anindya Ghose).
 
-- **(De)biased Machine Learning Algorithm in Matching** (with Yunchuan Liu).
-
-- **Why Does My Zestimate Fluctuate? Algorithmic Pricing and Ad Revenue Incentives** (with Nikhil Malik)
-
 - **Algorithm Failures and Consumers Response: Evidence from Zillow.com** (with Nikhil Malik, Isamar Troncoso, and Davide Proserpio)
-
-- **Model Mis-specification and Algorithmic Bias** (with Yangfan Liang and Peter Zhang).
 
 &nbsp;
 
